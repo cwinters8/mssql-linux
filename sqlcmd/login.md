@@ -1,3 +1,11 @@
+## A quick recommendation
+
+Switch to the mssql user created during the MSSQL installation prior to working with your instance or configuration.
+
+```
+sudo su - mssql
+```
+
 # Setup
 
 You will need to have the appropriate $PATH configured in order to access the sqlcmd tool. Add the following to your .bash_profile.
