@@ -19,6 +19,8 @@ Re-execute your .bash_profile to get the new $PATH
 . ~/.bash_profile
 ```
 
+If you still cannot access sqlcmd, [make sure it is installed](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-red-hat?view=sql-server-linux-2017#tools).
+
 # Logging in to an MSSQL instance
 
 To login to a local instance, use the following syntax:
